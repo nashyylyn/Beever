@@ -21,7 +21,7 @@ function App() {
   
   const loginWithSpotify = () => {
     const clientId = "a5866140a4394b45ab32bb07f0036d70"; 
-const redirectUri = "https://discovery-printed-ratio-destruction.trycloudflare.com"; 
+const redirectUri = "https://quad-updated-authority-subjective.trycloudflare.com"; 
 const scopes = [
   "playlist-read-private",
   "user-read-playback-state"
